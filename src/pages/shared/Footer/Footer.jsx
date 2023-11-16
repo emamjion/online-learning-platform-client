@@ -58,6 +58,9 @@ const Footer = () => {
                     </div>
                 </div>
             </div>
+            <div className='bg-[#abd0ee] flex items-center justify-center py-6'>
+                <p className='font-semibold'>&copy; Copyright Virtulearn.</p>
+            </div>
         </div>
     );
 };

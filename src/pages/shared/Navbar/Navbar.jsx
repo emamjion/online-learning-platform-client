@@ -24,7 +24,10 @@ const Navbar = () => {
                 </div>
             </div>
             <div>
-                Login
+                <span>Profile</span>
+                <Link className='ml-6 bg-[#569bd3] px-6 py-2.5 text-white rounded-[30px]' to='/login'>
+                    Login
+                </Link>
             </div>
         </div>
     );
