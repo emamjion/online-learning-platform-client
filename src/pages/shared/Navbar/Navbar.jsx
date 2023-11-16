@@ -7,7 +7,7 @@ const Navbar = () => {
     return (
         <div className='md:flex items-center justify-between md:px-[240px]'>
             <Link to='/' className='md:flex items-center text-center md:text-left'>
-                <img src={logo} className='w-32 mx-auto' />
+                <img src={logo} className='w-32 mx-auto md:mx-0' />
                 <h1 className='-ml-6 font-bold text-3xl'>VirtuLearn<span className='text-[#569BD3]'>.</span></h1>
             </Link>
             <div className='md:flex items-center mt-6 md:mt-0'>

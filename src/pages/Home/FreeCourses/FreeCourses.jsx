@@ -26,7 +26,7 @@ const FreeCourses = () => {
                         <div className='relative'>
                             <img 
                                 src={freeCourse.courseImg}
-                                className='w-[480px] h-[280px] rounded-lg'
+                                className='w-[480px] h-[280px] rounded-lg hover:scale-105 duration-500 cursor-pointer'
                             />
                             <div className='absolute -right-3 -bottom-4'>
                                 <button className='bg-[#569bd3] px-3 py-1 text-white rounded-[30px]'>Free</button>

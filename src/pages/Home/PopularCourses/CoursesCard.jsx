@@ -9,7 +9,7 @@ const CoursesCard = ({course}) => {
         <div>
             <img 
                 src={courseImg}
-                className='w-[480px] h-[280px] rounded-lg'
+                className='w-[480px] h-[280px] rounded-lg hover:scale-105 duration-500 cursor-pointer'
             />
             <div>
                 <h1 className='text-xl font-medium my-4'>{courseName}</h1>

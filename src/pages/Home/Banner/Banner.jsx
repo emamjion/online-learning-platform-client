@@ -14,7 +14,7 @@ const Banner = () => {
                         <input 
                             type="text"
                             placeholder='Search Here'
-                            className='border w-[300px] h-10 px-4 rounded-[30px] mx-auto md:mx-0'
+                            className='border w-[300px] h-10 px-4 rounded-[30px] mx-auto md:mx-0 focus:outline-0'
                         />
                     </div>
                     <div className='absolute -right-2 md:right-[50%]'>
