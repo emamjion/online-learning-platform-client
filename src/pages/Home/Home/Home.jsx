@@ -4,6 +4,7 @@ import AboutUs from '../AboutUs/AboutUs';
 import PopularCourses from '../PopularCourses/PopularCourses';
 import ChooseUs from '../ChooseUs/ChooseUs';
 import Facilities from '../Facilities/Facilities';
+import FreeCourses from '../FreeCourses/FreeCourses';
 
 const Home = () => {
     return (
@@ -18,6 +19,8 @@ const Home = () => {
             <ChooseUs/>
             {/* Facilities */}
             <Facilities/>
+            {/* Free Courses */}
+            <FreeCourses/>
         </div>
     );
 };

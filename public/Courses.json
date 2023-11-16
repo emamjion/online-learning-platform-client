@@ -46,5 +46,32 @@
         "lesson" : "6",
         "rating" : "4.5",
         "student" : "2"
+    },
+    {
+        "id" : "7",
+        "courseImg" : "https://i.ibb.co/4KvpqnZ/coding.jpg",
+        "courseName" : "Coding for Junior Basic Course",
+        "lesson" : "9",
+        "rating" : "4.2",
+        "student" : "1.4",
+        "courseType" : "free"
+    },
+    {
+        "id" : "8",
+        "courseImg" : "https://i.ibb.co/GcSTrW8/next-level.jpg",
+        "courseName" : "Next Level Web Development",
+        "lesson" : "22",
+        "rating" : "5.0",
+        "student" : "1.2",
+        "courseType" : "free"
+    },
+    {
+        "id" : "9",
+        "courseImg" : "https://i.ibb.co/ZGvwsdb/figma.jpg",
+        "courseName" : "Basic UI/UX - Figma",
+        "lesson" : "9",
+        "rating" : "4.2",
+        "student" : "2.6",
+        "courseType" : "free"
     }
 ]
