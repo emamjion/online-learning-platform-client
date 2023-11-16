@@ -1,9 +1,15 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import logo from '../../../assets/images/logo/logo.png'
 import { Link, NavLink } from 'react-router-dom';
 import { FaPhoneAlt } from 'react-icons/fa';
+import { AuthContext } from '../../../providers/AuthProvider';
 
 const Navbar = () => {
+    const { user, logOut } = useContext(AuthContext);
+    const handleLogout = () => {
+        logOut().then(() => {}).catch(error => console.log(error))
+    }
+    
     return (
         <div className='md:flex items-center justify-between md:px-[240px]'>
             <Link to='/' className='md:flex items-center text-center md:text-left'>
@@ -24,10 +30,18 @@ const Navbar = () => {
                 </div>
             </div>
             <div>
-                <span>Profile</span>
-                <Link className='ml-6 bg-[#569bd3] px-6 py-2.5 text-white rounded-[30px]' to='/login'>
-                    Login
+                <span>{user?.displayName}</span>
+                {
+                    user ? <>
+                        <Link onClick={handleLogout} className='ml-6 bg-[#569bd3] px-6 py-2.5 text-white rounded-[30px]'>
+                    Logout
                 </Link>
+                    </> : <>
+                        <Link className='ml-6 bg-[#569bd3] px-6 py-2.5 text-white rounded-[30px]' to='/login'>
+                        Login
+                </Link>
+                    </>
+                }
             </div>
         </div>
     );

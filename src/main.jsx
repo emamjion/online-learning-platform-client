@@ -6,6 +6,9 @@ import MainLayout from './Layout/MainLayout.jsx'
 import Home from './pages/Home/Home/Home.jsx'
 import Login from './pages/Login/Login.jsx'
 import Register from './pages/Register/Register.jsx'
+import AuthProvider from './providers/AuthProvider.jsx'
+import PrivateRoute from './PrivateRoutes/PrivateRoute.jsx'
+import Courses from './pages/Courses/Courses.jsx'
 
 
 const router = createBrowserRouter([
@@ -16,6 +19,10 @@ const router = createBrowserRouter([
       {
         path: '/',
         element: <Home/>
+      },
+      {
+        path: '/courses',
+        element: <PrivateRoute> <Courses/> </PrivateRoute>
       },
       {
         path: '/login',
@@ -32,6 +39,8 @@ const router = createBrowserRouter([
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <RouterProvider router={router} />
+    <AuthProvider>
+      <RouterProvider router={router} />
+    </AuthProvider>
   </React.StrictMode>,
 )
