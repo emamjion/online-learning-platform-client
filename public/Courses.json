@@ -1,0 +1,50 @@
+[
+    {
+        "id" : "1",
+        "courseImg" : "https://i.ibb.co/25gvwDF/web-design.jpg",
+        "courseName" : "Web Design Bootcamp-2023 for Beginners",
+        "lesson" : "12",
+        "rating" : "5.9",
+        "student" : "12.5"
+    },
+    {
+        "id" : "2",
+        "courseImg" : "https://i.ibb.co/LY7NGdz/graphics-design.jpg",
+        "courseName" : "Professional Graphics Design",
+        "lesson" : "15",
+        "rating" : "4.9",
+        "student" : "5.2"
+    },
+    {
+        "id" : "3",
+        "courseImg" : "https://i.ibb.co/r4QDYsr/ui-ux-design.jpg",
+        "courseName" : "UI/UX for Beginners in 2023",
+        "lesson" : "10",
+        "rating" : "5.2",
+        "student" : "1.5"
+    },
+    {
+        "id" : "4",
+        "courseImg" : "https://i.ibb.co/fCRkQVC/python-programming.jpg",
+        "courseName" : "Python Programming Masterclass",
+        "lesson" : "8",
+        "rating" : "4.9",
+        "student" : "2.5"
+    },
+    {
+        "id" : "5",
+        "courseImg" : "https://i.ibb.co/LpS05gH/web-dev.jpg",
+        "courseName" : "Web Development Fundamentals",
+        "lesson" : "15",
+        "rating" : "4.7",
+        "student" : "1.8"
+    },
+    {
+        "id" : "6",
+        "courseImg" : "https://i.ibb.co/sjG8Kmp/java-programming.jpg",
+        "courseName" : "Java Programming for Beginners",
+        "lesson" : "6",
+        "rating" : "4.5",
+        "student" : "2"
+    }
+]

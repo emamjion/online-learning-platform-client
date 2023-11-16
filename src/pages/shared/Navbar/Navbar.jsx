@@ -8,7 +8,7 @@ const Navbar = () => {
         <div className='md:flex items-center justify-between md:px-[240px]'>
             <Link to='/' className='md:flex items-center text-center md:text-left'>
                 <img src={logo} className='w-32 mx-auto' />
-                <h1 className='-ml-6 font-bold text-3xl'>Learners<span className='text-[#569BD3]'>.</span></h1>
+                <h1 className='-ml-6 font-bold text-3xl'>VirtuLearn<span className='text-[#569BD3]'>.</span></h1>
             </Link>
             <div className='md:flex items-center mt-6 md:mt-0'>
                 <ul className='navlist text-center md:text-left'>
@@ -22,6 +22,9 @@ const Navbar = () => {
                     <span className='text-[#569BD3]'> <FaPhoneAlt /> </span>
                     <p className=''>+880123 456789</p>
                 </div>
+            </div>
+            <div>
+                Login
             </div>
         </div>
     );

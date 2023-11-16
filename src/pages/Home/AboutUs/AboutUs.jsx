@@ -3,16 +3,16 @@ import aboutUs from '../../../assets/images/about/aboutus.jpg'
 
 const AboutUs = () => {
     return (
-        <div className='md:my-24 md:px-[240px] flex items-center gap-12'>
-            <div className='w-1/2'>
+        <div className='my-24 px-6 md:px-[240px] flex items-center flex-col md:flex-row gap-12'>
+            <div className='md:w-1/2'>
                 <img src={aboutUs} />
             </div>
-            <div className='w-1/2'>
-                <h1 className='text-2xl font-semibold mb-3'>About Us</h1>
+            <div className='md:w-1/2'>
+                <h1 className='text-2xl font-semibold mb-3 text-center md:text-left'>About Us</h1>
                 <p className='mb-6 text-[#757575]'>
-                    Elevate your learning experience & join Learners. today and discover the boundless possibilities that await you on the road to educational excellence.
+                    Elevate your learning experience & join VirtuLearn. today and discover the boundless possibilities that await you on the road to educational excellence.
                 </p>
-                <div className='grid grid-cols-1 md:grid-cols-2'>
+                <div className='grid grid-cols-2'>
                     <div className='mb-6'>
                         <span className='font-medium text-xl'>25K</span>
                         <p className='text-[#757575]'>Completed Projects</p>
