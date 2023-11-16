@@ -14,7 +14,7 @@ const FreeCourses = () => {
         <div className='my-24 px-6 md:px-[240px]'>
             <div>
                 <h1 className='font-semibold mb-3 text-2xl text-center md:text-left'>Free Courses</h1>
-                <p className='w-[700px] text-[#757575] text-sm'>
+                <p className='md:w-[700px] text-[#757575] text-sm text-center md:text-left'>
                     Offering free courses on Our online education platform can be a powerful strategy to attract learners, build brand awareness, and demonstrate the value of our offerings.
                 </p>
             </div>

@@ -5,6 +5,7 @@ import PopularCourses from '../PopularCourses/PopularCourses';
 import ChooseUs from '../ChooseUs/ChooseUs';
 import Facilities from '../Facilities/Facilities';
 import FreeCourses from '../FreeCourses/FreeCourses';
+import StudentVoice from '../StudentVoice/StudentVoice';
 
 const Home = () => {
     return (
@@ -21,6 +22,8 @@ const Home = () => {
             <Facilities/>
             {/* Free Courses */}
             <FreeCourses/>
+            {/* Our Student Voice */}
+            <StudentVoice/>
         </div>
     );
 };

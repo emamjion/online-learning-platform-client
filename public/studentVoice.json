@@ -1,0 +1,44 @@
+[
+    {
+        "id" : "1",
+        "studentName" : "Jamir Hamza",
+        "courseName" : "Web Development",
+        "speech" : "Excellent student, always participates actively in class discussions, and submits high-quality assignments.",
+        "location" : "New York, NY"
+    },
+    {
+        "id" : "2",
+        "studentName" : "Jane Smith",
+        "courseName" : "Next Level Web Dev",
+        "speech" : "Shows dedication to learning and has made significant progress throughout the semester. A pleasure to have in class..",
+        "location" : "Los Angeles, CA"
+    },
+    {
+        "id" : "3",
+        "studentName" : "Alex Johnson",
+        "courseName" : "Basic UI/UX Design",
+        "speech" : "Demonstrates a strong understanding of the subject matter and is a helpful team member during group projects.",
+        "location" : "Chicago, IL"
+    },
+    {
+        "id" : "4",
+        "studentName" : "Emily Davis",
+        "courseName" : "Basic React Js for Beginners",
+        "speech" : "Exceptional problem-solving skills and a keen interest in exploring advanced topics in the field.",
+        "location" : "Houston, TX"
+    },
+    {
+        "id" : "5",
+        "studentName" : "Daniel Brown",
+        "courseName" : "Coding for absolute beginners",
+        "speech" : "Consistently displays a positive attitude and eagerness to learn. Great teamwork skills.",
+        "location" : "Miami, FL"
+    },
+    {
+        "id" : "6",
+        "studentName" : "Sophia White",
+        "courseName" : "Basic Java Programming",
+        "speech" : "Outstanding communication skills and a natural leader in collaborative projects. A valuable asset to the class.",
+        "location" : "Seattle, WA"
+    }
+]
