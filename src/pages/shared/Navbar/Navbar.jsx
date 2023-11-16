@@ -5,7 +5,7 @@ import { FaPhoneAlt } from 'react-icons/fa';
 
 const Navbar = () => {
     return (
-        <div className='md:flex items-center justify-between px-[120px]'>
+        <div className='md:flex items-center justify-between md:px-[240px]'>
             <Link to='/' className='md:flex items-center text-center md:text-left'>
                 <img src={logo} className='w-32 mx-auto' />
                 <h1 className='-ml-6 font-bold text-3xl'>Learners<span className='text-[#569BD3]'>.</span></h1>
