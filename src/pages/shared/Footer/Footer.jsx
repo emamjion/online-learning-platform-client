@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 
 const Footer = () => {
     return (
-        <div className='my-24 md:px-[240px]'>
+        <div className='mt-24 md:px-[240px]'>
             <div className='bg-[#ddedfa] md:h-[300px] md:flex justify-around items-center px-6 py-10 md:py-0 text-center md:text-left'> 
                 <div>
                     <div className='flex items-center flex-col md:flex-row'>

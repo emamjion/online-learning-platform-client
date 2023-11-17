@@ -5,7 +5,59 @@
         "courseName" : "Web Design Bootcamp-2023 for Beginners",
         "lesson" : "12",
         "rating" : "5.9",
-        "student" : "12.5"
+        "student" : "12.5",
+        "overview" : "This course covers the basics of programming and gradually progresses to more advanced topics. Each week, you'll build on your knowledge and apply what you've learned through hands-on coding exercises and projects.",
+        "requirements": "No prior programming experience is required. Students should have access to a computer with an internet connection.",
+        "instructorInfo" : {
+            "name" : "Professor Coding Guru",
+            "bio": "An experienced programmer with a passion for teaching. Holds a Ph.D. in Computer Science and has worked on various industry projects.",
+            "contact": {
+                "email": "professor@example.com",
+                "website": "http://www.codingguru.com",
+                "twitter": "@codingguru"
+            }
+        },
+        "syllabus" : [
+            {
+                "week": 1,
+                "topic": "Introduction to Programming Concepts",
+                "subtopics": [
+                  "Overview of programming languages",
+                  "Setting up development environment",
+                  "Basic syntax and variables"
+                ]
+              },
+              {
+                "week": 2,
+                "topic": "Control Flow and Decision Making",
+                "subtopics": [
+                  "Conditional statements",
+                  "Loops and iterations",
+                  "Switch statements"
+                ]
+              },
+              {
+                "week": 3,
+                "topic": "Functions and Modularization",
+                "subtopics": [
+                  "Defining and calling functions",
+                  "Function parameters and return values",
+                  "Code modularization techniques"
+                ]
+              }
+        ],
+        "reviews" : [
+            {
+                "studentName": "Alice Johnson",
+                "rating": 5,
+                "reviewText": "This course was fantastic! Professor Coding Guru explained complex concepts in a way that was easy to understand. The hands-on projects were especially helpful."
+              },
+              {
+                "studentName": "Bob Smith",
+                "rating": 4,
+                "reviewText": "I enjoyed the course content and found the syllabus well-structured. The instructor was knowledgeable and responsive to questions."
+              }
+        ]
     },
     {
         "id" : "2",
@@ -13,7 +65,59 @@
         "courseName" : "Professional Graphics Design",
         "lesson" : "15",
         "rating" : "4.9",
-        "student" : "5.2"
+        "student" : "5.2",
+        "overview" : "This course covers the basics of programming and gradually progresses to more advanced topics. Each week, you'll build on your knowledge and apply what you've learned through hands-on coding exercises and projects.",
+        "requirements": "No prior programming experience is required. Students should have access to a computer with an internet connection.",
+        "instructorInfo" : {
+            "name" : "Professor Coding Guru",
+            "bio": "An experienced programmer with a passion for teaching. Holds a Ph.D. in Computer Science and has worked on various industry projects.",
+            "contact": {
+                "email": "professor@example.com",
+                "website": "http://www.codingguru.com",
+                "twitter": "@codingguru"
+            }
+        },
+        "syllabus" : [
+            {
+                "week": 1,
+                "topic": "Introduction to Programming Concepts",
+                "subtopics": [
+                  "Overview of programming languages",
+                  "Setting up development environment",
+                  "Basic syntax and variables"
+                ]
+              },
+              {
+                "week": 2,
+                "topic": "Control Flow and Decision Making",
+                "subtopics": [
+                  "Conditional statements",
+                  "Loops and iterations",
+                  "Switch statements"
+                ]
+              },
+              {
+                "week": 3,
+                "topic": "Functions and Modularization",
+                "subtopics": [
+                  "Defining and calling functions",
+                  "Function parameters and return values",
+                  "Code modularization techniques"
+                ]
+              }
+        ],
+        "reviews" : [
+            {
+                "studentName": "Alice Johnson",
+                "rating": 5,
+                "reviewText": "This course was fantastic! Professor Coding Guru explained complex concepts in a way that was easy to understand. The hands-on projects were especially helpful."
+              },
+              {
+                "studentName": "Bob Smith",
+                "rating": 4,
+                "reviewText": "I enjoyed the course content and found the syllabus well-structured. The instructor was knowledgeable and responsive to questions."
+              }
+        ]
     },
     {
         "id" : "3",
@@ -21,7 +125,59 @@
         "courseName" : "UI/UX for Beginners in 2023",
         "lesson" : "10",
         "rating" : "5.2",
-        "student" : "1.5"
+        "student" : "1.5",
+        "overview" : "This course covers the basics of programming and gradually progresses to more advanced topics. Each week, you'll build on your knowledge and apply what you've learned through hands-on coding exercises and projects.",
+        "requirements": "No prior programming experience is required. Students should have access to a computer with an internet connection.",
+        "instructorInfo" : {
+            "name" : "Professor Coding Guru",
+            "bio": "An experienced programmer with a passion for teaching. Holds a Ph.D. in Computer Science and has worked on various industry projects.",
+            "contact": {
+                "email": "professor@example.com",
+                "website": "http://www.codingguru.com",
+                "twitter": "@codingguru"
+            }
+        },
+        "syllabus" : [
+            {
+                "week": 1,
+                "topic": "Introduction to Programming Concepts",
+                "subtopics": [
+                  "Overview of programming languages",
+                  "Setting up development environment",
+                  "Basic syntax and variables"
+                ]
+              },
+              {
+                "week": 2,
+                "topic": "Control Flow and Decision Making",
+                "subtopics": [
+                  "Conditional statements",
+                  "Loops and iterations",
+                  "Switch statements"
+                ]
+              },
+              {
+                "week": 3,
+                "topic": "Functions and Modularization",
+                "subtopics": [
+                  "Defining and calling functions",
+                  "Function parameters and return values",
+                  "Code modularization techniques"
+                ]
+              }
+        ],
+        "reviews" : [
+            {
+                "studentName": "Alice Johnson",
+                "rating": 5,
+                "reviewText": "This course was fantastic! Professor Coding Guru explained complex concepts in a way that was easy to understand. The hands-on projects were especially helpful."
+              },
+              {
+                "studentName": "Bob Smith",
+                "rating": 4,
+                "reviewText": "I enjoyed the course content and found the syllabus well-structured. The instructor was knowledgeable and responsive to questions."
+              }
+        ]
     },
     {
         "id" : "4",
@@ -29,7 +185,59 @@
         "courseName" : "Python Programming Masterclass",
         "lesson" : "8",
         "rating" : "4.9",
-        "student" : "2.5"
+        "student" : "2.5",
+        "overview" : "This course covers the basics of programming and gradually progresses to more advanced topics. Each week, you'll build on your knowledge and apply what you've learned through hands-on coding exercises and projects.",
+        "requirements": "No prior programming experience is required. Students should have access to a computer with an internet connection.",
+        "instructorInfo" : {
+            "name" : "Professor Coding Guru",
+            "bio": "An experienced programmer with a passion for teaching. Holds a Ph.D. in Computer Science and has worked on various industry projects.",
+            "contact": {
+                "email": "professor@example.com",
+                "website": "http://www.codingguru.com",
+                "twitter": "@codingguru"
+            }
+        },
+        "syllabus" : [
+            {
+                "week": 1,
+                "topic": "Introduction to Programming Concepts",
+                "subtopics": [
+                  "Overview of programming languages",
+                  "Setting up development environment",
+                  "Basic syntax and variables"
+                ]
+              },
+              {
+                "week": 2,
+                "topic": "Control Flow and Decision Making",
+                "subtopics": [
+                  "Conditional statements",
+                  "Loops and iterations",
+                  "Switch statements"
+                ]
+              },
+              {
+                "week": 3,
+                "topic": "Functions and Modularization",
+                "subtopics": [
+                  "Defining and calling functions",
+                  "Function parameters and return values",
+                  "Code modularization techniques"
+                ]
+              }
+        ],
+        "reviews" : [
+            {
+                "studentName": "Alice Johnson",
+                "rating": 5,
+                "reviewText": "This course was fantastic! Professor Coding Guru explained complex concepts in a way that was easy to understand. The hands-on projects were especially helpful."
+              },
+              {
+                "studentName": "Bob Smith",
+                "rating": 4,
+                "reviewText": "I enjoyed the course content and found the syllabus well-structured. The instructor was knowledgeable and responsive to questions."
+              }
+        ]
     },
     {
         "id" : "5",
@@ -37,7 +245,59 @@
         "courseName" : "Web Development Fundamentals",
         "lesson" : "15",
         "rating" : "4.7",
-        "student" : "1.8"
+        "student" : "1.8",
+        "overview" : "This course covers the basics of programming and gradually progresses to more advanced topics. Each week, you'll build on your knowledge and apply what you've learned through hands-on coding exercises and projects.",
+        "requirements": "No prior programming experience is required. Students should have access to a computer with an internet connection.",
+        "instructorInfo" : {
+            "name" : "Professor Coding Guru",
+            "bio": "An experienced programmer with a passion for teaching. Holds a Ph.D. in Computer Science and has worked on various industry projects.",
+            "contact": {
+                "email": "professor@example.com",
+                "website": "http://www.codingguru.com",
+                "twitter": "@codingguru"
+            }
+        },
+        "syllabus" : [
+            {
+                "week": 1,
+                "topic": "Introduction to Programming Concepts",
+                "subtopics": [
+                  "Overview of programming languages",
+                  "Setting up development environment",
+                  "Basic syntax and variables"
+                ]
+              },
+              {
+                "week": 2,
+                "topic": "Control Flow and Decision Making",
+                "subtopics": [
+                  "Conditional statements",
+                  "Loops and iterations",
+                  "Switch statements"
+                ]
+              },
+              {
+                "week": 3,
+                "topic": "Functions and Modularization",
+                "subtopics": [
+                  "Defining and calling functions",
+                  "Function parameters and return values",
+                  "Code modularization techniques"
+                ]
+              }
+        ],
+        "reviews" : [
+            {
+                "studentName": "Alice Johnson",
+                "rating": 5,
+                "reviewText": "This course was fantastic! Professor Coding Guru explained complex concepts in a way that was easy to understand. The hands-on projects were especially helpful."
+              },
+              {
+                "studentName": "Bob Smith",
+                "rating": 4,
+                "reviewText": "I enjoyed the course content and found the syllabus well-structured. The instructor was knowledgeable and responsive to questions."
+              }
+        ]
     },
     {
         "id" : "6",
@@ -45,7 +305,59 @@
         "courseName" : "Java Programming for Beginners",
         "lesson" : "6",
         "rating" : "4.5",
-        "student" : "2"
+        "student" : "2",
+        "overview" : "This course covers the basics of programming and gradually progresses to more advanced topics. Each week, you'll build on your knowledge and apply what you've learned through hands-on coding exercises and projects.",
+        "requirements": "No prior programming experience is required. Students should have access to a computer with an internet connection.",
+        "instructorInfo" : {
+            "name" : "Professor Coding Guru",
+            "bio": "An experienced programmer with a passion for teaching. Holds a Ph.D. in Computer Science and has worked on various industry projects.",
+            "contact": {
+                "email": "professor@example.com",
+                "website": "http://www.codingguru.com",
+                "twitter": "@codingguru"
+            }
+        },
+        "syllabus" : [
+            {
+                "week": 1,
+                "topic": "Introduction to Programming Concepts",
+                "subtopics": [
+                  "Overview of programming languages",
+                  "Setting up development environment",
+                  "Basic syntax and variables"
+                ]
+              },
+              {
+                "week": 2,
+                "topic": "Control Flow and Decision Making",
+                "subtopics": [
+                  "Conditional statements",
+                  "Loops and iterations",
+                  "Switch statements"
+                ]
+              },
+              {
+                "week": 3,
+                "topic": "Functions and Modularization",
+                "subtopics": [
+                  "Defining and calling functions",
+                  "Function parameters and return values",
+                  "Code modularization techniques"
+                ]
+              }
+        ],
+        "reviews" : [
+            {
+                "studentName": "Alice Johnson",
+                "rating": 5,
+                "reviewText": "This course was fantastic! Professor Coding Guru explained complex concepts in a way that was easy to understand. The hands-on projects were especially helpful."
+              },
+              {
+                "studentName": "Bob Smith",
+                "rating": 4,
+                "reviewText": "I enjoyed the course content and found the syllabus well-structured. The instructor was knowledgeable and responsive to questions."
+              }
+        ]
     },
     {
         "id" : "7",
@@ -54,7 +366,59 @@
         "lesson" : "9",
         "rating" : "4.2",
         "student" : "1.4",
-        "courseType" : "free"
+        "courseType" : "free",
+        "overview" : "This course covers the basics of programming and gradually progresses to more advanced topics. Each week, you'll build on your knowledge and apply what you've learned through hands-on coding exercises and projects.",
+        "requirements": "No prior programming experience is required. Students should have access to a computer with an internet connection.",
+        "instructorInfo" : {
+            "name" : "Professor Coding Guru",
+            "bio": "An experienced programmer with a passion for teaching. Holds a Ph.D. in Computer Science and has worked on various industry projects.",
+            "contact": {
+                "email": "professor@example.com",
+                "website": "http://www.codingguru.com",
+                "twitter": "@codingguru"
+            }
+        },
+        "syllabus" : [
+            {
+                "week": 1,
+                "topic": "Introduction to Programming Concepts",
+                "subtopics": [
+                  "Overview of programming languages",
+                  "Setting up development environment",
+                  "Basic syntax and variables"
+                ]
+              },
+              {
+                "week": 2,
+                "topic": "Control Flow and Decision Making",
+                "subtopics": [
+                  "Conditional statements",
+                  "Loops and iterations",
+                  "Switch statements"
+                ]
+              },
+              {
+                "week": 3,
+                "topic": "Functions and Modularization",
+                "subtopics": [
+                  "Defining and calling functions",
+                  "Function parameters and return values",
+                  "Code modularization techniques"
+                ]
+              }
+        ],
+        "reviews" : [
+            {
+                "studentName": "Alice Johnson",
+                "rating": 5,
+                "reviewText": "This course was fantastic! Professor Coding Guru explained complex concepts in a way that was easy to understand. The hands-on projects were especially helpful."
+              },
+              {
+                "studentName": "Bob Smith",
+                "rating": 4,
+                "reviewText": "I enjoyed the course content and found the syllabus well-structured. The instructor was knowledgeable and responsive to questions."
+              }
+        ]
     },
     {
         "id" : "8",
@@ -63,7 +427,59 @@
         "lesson" : "22",
         "rating" : "5.0",
         "student" : "1.2",
-        "courseType" : "free"
+        "courseType" : "free",
+        "overview" : "This course covers the basics of programming and gradually progresses to more advanced topics. Each week, you'll build on your knowledge and apply what you've learned through hands-on coding exercises and projects.",
+        "requirements": "No prior programming experience is required. Students should have access to a computer with an internet connection.",
+        "instructorInfo" : {
+            "name" : "Professor Coding Guru",
+            "bio": "An experienced programmer with a passion for teaching. Holds a Ph.D. in Computer Science and has worked on various industry projects.",
+            "contact": {
+                "email": "professor@example.com",
+                "website": "http://www.codingguru.com",
+                "twitter": "@codingguru"
+            }
+        },
+        "syllabus" : [
+            {
+                "week": 1,
+                "topic": "Introduction to Programming Concepts",
+                "subtopics": [
+                  "Overview of programming languages",
+                  "Setting up development environment",
+                  "Basic syntax and variables"
+                ]
+              },
+              {
+                "week": 2,
+                "topic": "Control Flow and Decision Making",
+                "subtopics": [
+                  "Conditional statements",
+                  "Loops and iterations",
+                  "Switch statements"
+                ]
+              },
+              {
+                "week": 3,
+                "topic": "Functions and Modularization",
+                "subtopics": [
+                  "Defining and calling functions",
+                  "Function parameters and return values",
+                  "Code modularization techniques"
+                ]
+              }
+        ],
+        "reviews" : [
+            {
+                "studentName": "Alice Johnson",
+                "rating": 5,
+                "reviewText": "This course was fantastic! Professor Coding Guru explained complex concepts in a way that was easy to understand. The hands-on projects were especially helpful."
+              },
+              {
+                "studentName": "Bob Smith",
+                "rating": 4,
+                "reviewText": "I enjoyed the course content and found the syllabus well-structured. The instructor was knowledgeable and responsive to questions."
+              }
+        ]
     },
     {
         "id" : "9",
@@ -72,6 +488,59 @@
         "lesson" : "9",
         "rating" : "4.2",
         "student" : "2.6",
-        "courseType" : "free"
+        "courseType" : "free",
+        "overview" : "This course covers the basics of programming and gradually progresses to more advanced topics. Each week, you'll build on your knowledge and apply what you've learned through hands-on coding exercises and projects.",
+        "requirements": "No prior programming experience is required. Students should have access to a computer with an internet connection.",
+        "instructorInfo" : {
+            "name" : "Professor Coding Guru",
+            "bio": "An experienced programmer with a passion for teaching. Holds a Ph.D. in Computer Science and has worked on various industry projects.",
+            "contact": {
+                "email": "professor@example.com",
+                "website": "http://www.codingguru.com",
+                "twitter": "@codingguru"
+            }
+        },
+        "syllabus" : [
+            {
+                "week": 1,
+                "topic": "Introduction to Programming Concepts",
+                "subtopics": [
+                  "Overview of programming languages",
+                  "Setting up development environment",
+                  "Basic syntax and variables"
+                ]
+              },
+              {
+                "week": 2,
+                "topic": "Control Flow and Decision Making",
+                "subtopics": [
+                  "Conditional statements",
+                  "Loops and iterations",
+                  "Switch statements"
+                ]
+              },
+              {
+                "week": 3,
+                "topic": "Functions and Modularization",
+                "subtopics": [
+                  "Defining and calling functions",
+                  "Function parameters and return values",
+                  "Code modularization techniques"
+                ]
+              }
+        ],
+        "reviews" : [
+            {
+                "studentName": "Alice Johnson",
+                "rating": 5,
+                "reviewText": "This course was fantastic! Professor Coding Guru explained complex concepts in a way that was easy to understand. The hands-on projects were especially helpful."
+              },
+              {
+                "studentName": "Bob Smith",
+                "rating": 4,
+                "reviewText": "I enjoyed the course content and found the syllabus well-structured. The instructor was knowledgeable and responsive to questions."
+              }
+        ]
+        
     }
 ]

@@ -29,7 +29,7 @@ const Navbar = () => {
                     <p className=''>+880123 456789</p>
                 </div>
             </div>
-            <div>
+            <div className='mt-6 md:mt-0 flex items-center flex-col md:flex-row '>
                 <span>{user?.displayName}</span>
                 {
                     user ? <>
